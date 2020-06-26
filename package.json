@@ -18,6 +18,9 @@
     "jslinera",
     "jsalgebra"
   ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "repository": {
     "url": "git://github.com/comradesurendra/jsalgebra.git"
   }
