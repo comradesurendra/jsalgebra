@@ -3,6 +3,14 @@
 This library contains some useful classes and functions for dealing with linear algebra in JavaScript.  
 
 ---
+## Important 
+#### To install the package using github is different from NPM website
+#### Create .npmrc file into the root directory of your project
+#### Include registry=https://npm.pkg.github.com/comradesurendra into it
+#### Run below command into the terminal 
+npm install @comradesurendra/jsalgebra@1.0.5
+
+---
 
 ## Overview  
 
