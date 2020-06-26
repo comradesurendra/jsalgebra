@@ -40,7 +40,7 @@ This library contains some useful classes and functions for dealing with linear 
 
 ## Documentation  
 
-The module is well documented in its source code. Look in the TypeScript file ```la_lib.ts```.  
+The module is well documented in its source code.  
 
 ---
 
