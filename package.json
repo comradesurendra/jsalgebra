@@ -1,5 +1,5 @@
 {
-  "name": "@comradesurendra/jsalgebra",
+  "name": "jsalgebra",
   "version": "1.0.2",
   "description": "simple linear algebra library for JavaScript",
   "main": "index.js",
