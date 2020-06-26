@@ -12,6 +12,7 @@
   "author": "Surendra Kumar",
   "license": "MIT",
   "dependencies": {
+    "@comradesurendra/jsalgebra": "^1.0.6",
     "mocha": "^5.0.2"
   },
   "keywords": [
@@ -19,6 +20,6 @@
     "jsalgebra"
   ],
   "repository": {
-    "url": "git://github.com/jsalgebra/test.git"
+    "url": "git://github.com/comradesurendra/jsalgebra.git"
   }
 }
